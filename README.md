@@ -35,4 +35,4 @@ Board: ESP32 Dev Module
 Port: Your COM port (e.g., COM4, COM5)
 Upload Speed: 92160
 Upload the sketch
-If upload fails, hold the BOOT button → click Upload → release BOOT when "Connecting..." appears.
+If upload fails, hold the BOOT button → click Upload → release BOOT when "Connecting...." appears.
