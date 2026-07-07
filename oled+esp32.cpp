@@ -20,7 +20,7 @@ void setup() {
   display.setCursor(0, 0);
 
   display.println("OLED WORKING!");
-  display.println("ESP32 OK");kk
+  display.println("ESP32 OK");
 
   display.drawRect(0, 30, 128, 34, SH110X_WHITE);
 
