@@ -32,7 +32,7 @@ Install via **Arduino IDE Library Manager** (`Sketch → Include Library → Man
    Open esp32_servo.ino in Arduino IDE
 Select board settings:  
 Board: ESP32 Dev Module
-Port: Your COM port (e.g., COM4, COM5)
+Port: Your COM port (e.g., COM4, COM5)hh
 Upload Speed: 92160
 Upload the sketch
 If upload fails, hold the BOOT button → click Upload → release BOOT when "Connecting...." appears.
