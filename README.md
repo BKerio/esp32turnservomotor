@@ -33,6 +33,6 @@ Install via **Arduino IDE Library Manager** (`Sketch → Include Library → Man
 Select board settings:  
 Board: ESP32 Dev Module
 Port: Your COM port (e.g., COM4, COM5)
-Upload Speed: 92160
+Upload Speed: 92160yyy
 Upload the sketch
 If upload fails, hold the BOOT button → click Upload → release BOOT when "Connecting...." appears.
