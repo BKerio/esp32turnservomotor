@@ -1,5 +1,5 @@
 
->**Critical:** The external power supply ground **must** be connected to ESP32 GND. Do not power the servo from the ESP32 3.3V or 5V pins.
+>**Critical:** The external power supply ground **must** be connected to ESP32 GND. Do not power the servo from the ESP32 3.3V or 5V pins.rr
 
 ---
 
