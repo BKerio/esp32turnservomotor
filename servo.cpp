@@ -17,7 +17,7 @@ void setup() {
   myServo.attach(servoPin, 500, 2400);  // Min/max pulse width in microseconds
   
   Serial.begin(115200);
-  Serial.println("Servo readyii on GPIO 13");
+  Serial.println("Servo ready on GPIO 13");
 }
 
 void loop() {
